@@ -1,1 +1,0 @@
-print("to aprendendo a mexer no github pai")
