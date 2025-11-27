@@ -9,8 +9,7 @@ media = (AV1 + AV2) / 2
 
 freq = float(input("digite sua % de frequencia: "))
 
-print("media final: {}".format(media))
-print("frequencia: {}%".format(freq))
+print("media final: {} \nfrequencia: {}".format(media, freq))
 
 if freq >= 75 and media >= 7:
     print("status: aprovado")
