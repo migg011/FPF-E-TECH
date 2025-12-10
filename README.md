@@ -1,1 +1,1 @@
-curso 4k
+curso 2k25
