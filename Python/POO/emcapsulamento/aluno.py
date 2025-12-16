@@ -15,11 +15,15 @@ class Aluno:
         else:
             print("nota invalida")
 
-aluno01 = Aluno("sei la quem", 8)
+aluno01 = Aluno("sei la quem", 6)
 
 print(aluno01.get_nota())
 
 aluno01.set_nota(11)
+
+print(aluno01.get_nota())
+
+aluno01.set_nota(10)
 
 print(aluno01.get_nota())
 
